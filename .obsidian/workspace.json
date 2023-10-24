@@ -11,9 +11,11 @@
             "id": "65b949c330ed1ba2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "spy prototype character/characterSheet20231024.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spy prototype character/characterSheet20231024.pdf",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spy prototype character/characterSheet20231024.pdf",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spy prototype character/characterSheet20231024.pdf"
+                "file": "README.md"
               }
             }
           }
@@ -144,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "099fb2c9c8398aa7",
+  "active": "65b949c330ed1ba2",
   "lastOpenFiles": [
+    "spy prototype character/GageGreenGatherSheet20231024.pdf",
+    "README.md",
     "spy prototype character/archive/character-0.1.pdf",
-    "spy prototype character/archive",
-    "spy prototype character/characterSheet20231024.pdf"
+    "spy prototype character/archive"
   ]
 }

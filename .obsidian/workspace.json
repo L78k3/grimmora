@@ -6,6 +6,7 @@
       {
         "id": "923591f270bb9b83",
         "type": "tabs",
+        "dimension": 40.9263959390863,
         "children": [
           {
             "id": "65b949c330ed1ba2",
@@ -20,31 +21,36 @@
             }
           },
           {
-            "id": "53eb99cb39bd86b0",
+            "id": "0dff89886f6af1d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chronicles/Entry 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f4449eae9229f04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chronicles/Entry 8.md",
+                "file": "Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "ab7592d167a6643e",
+        "type": "tabs",
+        "dimension": 59.07360406091371,
+        "children": [
+          {
+            "id": "4b56f62b7384261c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "spy prototype character/GageGreenGatherSheet20231024.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chronicles/Entry 8.md",
+                "file": "Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chronicles/Entry 8.md",
+                "file": "Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chronicles/Entry 8.md"
+                "file": "Scratchpad.md"
               }
             }
           },
@@ -169,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,20 +188,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f4449eae9229f04",
+  "active": "0dff89886f6af1d6",
   "lastOpenFiles": [
-    "Chronicles/Entry 7.md",
+    "README.md",
+    "Scratchpad.md",
+    "spy prototype character/GageGreenGatherSheet20231024.pdf",
     "Chronicles/Entry 8.md",
+    "Chronicles/Entry 7.md",
     "Chronicles/Entry 6.md",
     "Chronicles/Entry 5.md",
     "Chronicles/Entry 4.md",
     "Chronicles/Entry 3.md",
     "Chronicles/Entry 2.md",
-    "README.md",
     "glossary/Durvish City.md",
     "Chronicles/Entry 1.md",
     "glossary",
-    "spy prototype character/GageGreenGatherSheet20231024.pdf",
     "Chronicles",
     "spy prototype character/archive/character-0.1.pdf",
     "spy prototype character/archive"

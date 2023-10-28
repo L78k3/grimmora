@@ -4,7 +4,3 @@
 # Contents
 
 All there is now is just [[GageGreenGatherSheet20231024.pdf]], which is fine to use for a first session.
-
-Help
-
-Laptop

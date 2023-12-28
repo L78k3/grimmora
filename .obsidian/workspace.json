@@ -46,7 +46,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "spy prototype character/GageGreenGatherSheet20231024.pdf"
+                "file": "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf"
               }
             }
           }
@@ -190,9 +190,12 @@
   },
   "active": "0dff89886f6af1d6",
   "lastOpenFiles": [
-    "spy prototype character/GageGreenGatherSheet20231024.pdf",
+    "Characters/Characters.md",
+    "Characters/Gage Greengather/main.md",
+    "Characters",
     "Sessions/Session 20231228.md",
-    "spy prototype character/main.md",
+    "glossary/Durvish City.md",
+    "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf",
     "README.md",
     "Scratchpad.md",
     "Sessions",
@@ -203,11 +206,10 @@
     "Chronicles/Entry 4.md",
     "Chronicles/Entry 3.md",
     "Chronicles/Entry 2.md",
-    "glossary/Durvish City.md",
     "Chronicles/Entry 1.md",
     "glossary",
     "Chronicles",
-    "spy prototype character/archive/character-0.1.pdf",
-    "spy prototype character/archive"
+    "Characters/Gage Greengather/archive/character-0.1.pdf",
+    "Characters/Gage Greengather/archive"
   ]
 }

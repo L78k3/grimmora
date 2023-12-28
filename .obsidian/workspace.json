@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "Sessions/Session 20231228.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "Sessions/Session 20231228.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "Sessions/Session 20231228.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scratchpad.md"
+                "file": "Sessions/Session 20231228.md"
               }
             }
           },
@@ -190,9 +190,12 @@
   },
   "active": "0dff89886f6af1d6",
   "lastOpenFiles": [
+    "spy prototype character/GageGreenGatherSheet20231024.pdf",
+    "Sessions/Session 20231228.md",
+    "spy prototype character/main.md",
     "README.md",
     "Scratchpad.md",
-    "spy prototype character/GageGreenGatherSheet20231024.pdf",
+    "Sessions",
     "Chronicles/Entry 8.md",
     "Chronicles/Entry 7.md",
     "Chronicles/Entry 6.md",

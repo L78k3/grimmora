@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 20231228.md",
+                "file": "Characters/Gage Greengather/main.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 20231228.md",
+                "file": "Characters/Gage Greengather/main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 20231228.md",
+                "file": "Characters/Gage Greengather/main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 20231228.md"
+                "file": "Characters/Gage Greengather/main.md"
               }
             }
           },
@@ -190,10 +190,10 @@
   },
   "active": "0dff89886f6af1d6",
   "lastOpenFiles": [
+    "Sessions/Session 20231228.md",
     "Characters/Characters.md",
     "Characters/Gage Greengather/main.md",
     "Characters",
-    "Sessions/Session 20231228.md",
     "glossary/Durvish City.md",
     "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf",
     "README.md",

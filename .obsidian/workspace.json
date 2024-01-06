@@ -6,7 +6,6 @@
       {
         "id": "923591f270bb9b83",
         "type": "tabs",
-        "dimension": 40.9263959390863,
         "children": [
           {
             "id": "65b949c330ed1ba2",
@@ -26,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 20231228.md",
+                "file": "Sessions/Session 20240104.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,22 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "ab7592d167a6643e",
-        "type": "tabs",
-        "dimension": 59.07360406091371,
-        "children": [
-          {
-            "id": "4b56f62b7384261c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,11 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2521faa5873836d",
+  "active": "0dff89886f6af1d6",
   "lastOpenFiles": [
     "Sessions/Session 20231228.md",
-    "Characters/Gage Greengather/main.md",
     "Sessions/Session 20240104.md",
+    "Characters/Gage Greengather/main.md",
     "Scratchpad.md",
     "Sessions",
     "Characters/Gage Greengather/archive/character-0.1.pdf",

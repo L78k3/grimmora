@@ -165,6 +165,14 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "161e180c4a846d64",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4

@@ -4,36 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "923591f270bb9b83",
-        "type": "tabs",
+        "id": "21470eb0ae15d2f4",
+        "type": "split",
         "dimension": 40.9263959390863,
         "children": [
           {
-            "id": "65b949c330ed1ba2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+            "id": "923591f270bb9b83",
+            "type": "tabs",
+            "dimension": 60.76923076923077,
+            "children": [
+              {
+                "id": "65b949c330ed1ba2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "0dff89886f6af1d6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sessions/Session 20240104.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "0dff89886f6af1d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scratchpad.md",
-                "mode": "source",
-                "source": false
+            "id": "27bfb1cb3551ac0a",
+            "type": "tabs",
+            "dimension": 39.23076923076923,
+            "children": [
+              {
+                "id": "32abd1dbb4f302a3",
+                "type": "leaf",
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {}
+                }
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       },
       {
         "id": "ab7592d167a6643e",
@@ -46,7 +69,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "spy prototype character/GageGreenGatherSheet20231024.pdf"
+                "file": "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf"
               }
             }
           }
@@ -116,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "Sessions/Session 20240104.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "Sessions/Session 20240104.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scratchpad.md"
+                "file": "Sessions/Session 20240104.md"
               }
             }
           },
@@ -173,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -190,11 +213,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0dff89886f6af1d6",
+  "active": "32abd1dbb4f302a3",
   "lastOpenFiles": [
+    "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf",
+    "Sessions/Session 20240104.md",
+    "Characters/Gage Greengather/main.md",
+    "Sessions/Session 20231228.md",
+    "Characters/Characters.md",
+    "Characters",
+    "glossary/Durvish City.md",
     "README.md",
     "Scratchpad.md",
-    "spy prototype character/GageGreenGatherSheet20231024.pdf",
+    "Sessions",
     "Chronicles/Entry 8.md",
     "Chronicles/Entry 7.md",
     "Chronicles/Entry 6.md",
@@ -202,11 +232,10 @@
     "Chronicles/Entry 4.md",
     "Chronicles/Entry 3.md",
     "Chronicles/Entry 2.md",
-    "glossary/Durvish City.md",
     "Chronicles/Entry 1.md",
     "glossary",
     "Chronicles",
-    "spy prototype character/archive/character-0.1.pdf",
-    "spy prototype character/archive"
+    "Characters/Gage Greengather/archive/character-0.1.pdf",
+    "Characters/Gage Greengather/archive"
   ]
 }

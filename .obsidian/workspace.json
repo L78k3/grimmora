@@ -4,71 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "21470eb0ae15d2f4",
-        "type": "split",
+        "id": "923591f270bb9b83",
+        "type": "tabs",
         "dimension": 40.9263959390863,
         "children": [
           {
-            "id": "923591f270bb9b83",
-            "type": "tabs",
-            "dimension": 80.76923076923077,
-            "children": [
-              {
-                "id": "65b949c330ed1ba2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sessions/Session 20240210.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "1a5d4b9ac1bf51d2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Locations/Arcadia.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "bdf32494af18f6d1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Locations/Orris' Secret Lair.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "65b949c330ed1ba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 20240210.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 1
+            }
           },
           {
-            "id": "27bfb1cb3551ac0a",
-            "type": "tabs",
-            "dimension": 19.230769230769234,
-            "children": [
-              {
-                "id": "32abd1dbb4f302a3",
-                "type": "leaf",
-                "state": {
-                  "type": "DICE_ROLLER_VIEW",
-                  "state": {}
-                }
-              }
-            ]
+            "id": "32abd1dbb4f302a3",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       },
       {
         "id": "ab7592d167a6643e",
@@ -162,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Arcadia.md",
+                "file": "Sessions/Session 20240210.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Arcadia.md",
+                "file": "Sessions/Session 20240210.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Arcadia.md"
+                "file": "Sessions/Session 20240210.md"
               }
             }
           },
@@ -236,18 +196,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a5d4b9ac1bf51d2",
+  "active": "65b949c330ed1ba2",
   "lastOpenFiles": [
     "Locations/Orris' Secret Lair.md",
-    "Sessions/Session 20240210.md",
     "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf",
+    "Sessions/Session 20240210.md",
+    "Sessions/Session 20240104.md",
+    "Locations/Arcadia.md",
     "Locations/Maps/GRIMMORA_UPDATED.jpg",
     "Locations/Maps",
     "Locations/New folder",
     "Characters/Characters.md",
     "README.md",
-    "Sessions/Session 20240104.md",
-    "Locations/Arcadia.md",
     "Locations",
     "conflict-files-obsidian-git.md",
     "Characters/Gage Greengather/main.md",

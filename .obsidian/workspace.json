@@ -11,7 +11,7 @@
           {
             "id": "923591f270bb9b83",
             "type": "tabs",
-            "dimension": 60.76923076923076,
+            "dimension": 80.76923076923077,
             "children": [
               {
                 "id": "65b949c330ed1ba2",
@@ -49,12 +49,13 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "27bfb1cb3551ac0a",
             "type": "tabs",
-            "dimension": 39.23076923076923,
+            "dimension": 19.230769230769234,
             "children": [
               {
                 "id": "32abd1dbb4f302a3",
@@ -81,6 +82,16 @@
               "type": "pdf",
               "state": {
                 "file": "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf"
+              }
+            }
+          },
+          {
+            "id": "c4d994ba902118fa",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Locations/Maps/GRIMMORA_UPDATED.jpg"
               }
             }
           }
@@ -134,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "94c5dbc223d0a1da",
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 20240210.md",
+                "file": "Locations/Arcadia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 20240210.md",
+                "file": "Locations/Arcadia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 20240210.md"
+                "file": "Locations/Arcadia.md"
               }
             }
           },
@@ -224,19 +236,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65b949c330ed1ba2",
+  "active": "1a5d4b9ac1bf51d2",
   "lastOpenFiles": [
-    "README.md",
+    "Locations/Orris' Secret Lair.md",
     "Sessions/Session 20240210.md",
+    "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf",
+    "Locations/Maps/GRIMMORA_UPDATED.jpg",
+    "Locations/Maps",
+    "Locations/New folder",
+    "Characters/Characters.md",
+    "README.md",
     "Sessions/Session 20240104.md",
     "Locations/Arcadia.md",
-    "Locations/Orris' Secret Lair.md",
     "Locations",
     "conflict-files-obsidian-git.md",
-    "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf",
     "Characters/Gage Greengather/main.md",
     "Sessions/Session 20231228.md",
-    "Characters/Characters.md",
     "Characters",
     "glossary/Durvish City.md",
     "Scratchpad.md",

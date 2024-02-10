@@ -11,7 +11,7 @@
           {
             "id": "923591f270bb9b83",
             "type": "tabs",
-            "dimension": 60.76923076923077,
+            "dimension": 60.76923076923076,
             "children": [
               {
                 "id": "65b949c330ed1ba2",
@@ -189,7 +189,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -211,8 +213,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32abd1dbb4f302a3",
+  "active": "0dff89886f6af1d6",
   "lastOpenFiles": [
+    "README.md",
     "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf",
     "Sessions/Session 20240104.md",
     "Characters/Gage Greengather/main.md",
@@ -220,7 +223,6 @@
     "Characters/Characters.md",
     "Characters",
     "glossary/Durvish City.md",
-    "README.md",
     "Scratchpad.md",
     "Sessions",
     "Chronicles/Entry 8.md",

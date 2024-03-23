@@ -105,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "94c5dbc223d0a1da",
@@ -198,9 +197,10 @@
   },
   "active": "65b949c330ed1ba2",
   "lastOpenFiles": [
-    "Locations/Orris' Secret Lair.md",
     "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf",
+    "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
     "Sessions/Session 20240210.md",
+    "Locations/Orris' Secret Lair.md",
     "Sessions/Session 20240104.md",
     "Locations/Arcadia.md",
     "Locations/Maps/GRIMMORA_UPDATED.jpg",

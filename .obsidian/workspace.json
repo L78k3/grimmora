@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 20240210.md",
+                "file": "Sessions/Session 20240323.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,21 +38,30 @@
           {
             "id": "4b56f62b7384261c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf"
-              }
+                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf"
+              },
+              "pinned": true
             }
           },
           {
             "id": "c4d994ba902118fa",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "Locations/Maps/GRIMMORA_UPDATED.jpg"
-              }
+                "file": "Locations/Maps/Maps.canvas",
+                "viewState": {
+                  "x": 89.21476206303134,
+                  "y": -12.233636897796558,
+                  "zoom": 0.27630807836850496
+                }
+              },
+              "pinned": true
             }
           }
         ]
@@ -121,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 20240210.md",
+                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 20240210.md",
+                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 20240210.md"
+                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf"
               }
             }
           },
@@ -195,15 +204,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65b949c330ed1ba2",
+  "active": "4b56f62b7384261c",
   "lastOpenFiles": [
-    "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf",
-    "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
+    "Locations/Maps/Maps.canvas",
+    "Sessions/Session 20240323.md",
     "Sessions/Session 20240210.md",
+    "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
+    "Locations/Maps/GRIMMORA_UPDATED.jpg",
+    "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf",
     "Locations/Orris' Secret Lair.md",
     "Sessions/Session 20240104.md",
     "Locations/Arcadia.md",
-    "Locations/Maps/GRIMMORA_UPDATED.jpg",
     "Locations/Maps",
     "Locations/New folder",
     "Characters/Characters.md",
@@ -226,7 +237,6 @@
     "Chronicles/Entry 1.md",
     "glossary",
     "Chronicles",
-    "Characters/Gage Greengather/archive/character-0.1.pdf",
-    "Characters/Gage Greengather/archive"
+    "Characters/Gage Greengather/archive/character-0.1.pdf"
   ]
 }

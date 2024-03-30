@@ -48,6 +48,16 @@
             }
           },
           {
+            "id": "1a42248adc15734b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
             "id": "c4d994ba902118fa",
             "type": "leaf",
             "pinned": true,
@@ -56,15 +66,16 @@
               "state": {
                 "file": "Locations/Maps/Maps.canvas",
                 "viewState": {
-                  "x": 89.21476206303134,
-                  "y": -12.233636897796558,
+                  "x": 242.02730587948537,
+                  "y": 43.05532367901068,
                   "zoom": 0.27630807836850496
                 }
               },
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,16 +215,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b56f62b7384261c",
+  "active": "1a42248adc15734b",
   "lastOpenFiles": [
-    "Locations/Maps/Maps.canvas",
     "Sessions/Session 20240323.md",
-    "Sessions/Session 20240210.md",
     "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
+    "Locations/Maps/Maps.canvas",
+    "Characters/Gage Greengather/main.md",
+    "Sessions/Session 20240210.md",
+    "Sessions/Session 20240104.md",
     "Locations/Maps/GRIMMORA_UPDATED.jpg",
     "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf",
     "Locations/Orris' Secret Lair.md",
-    "Sessions/Session 20240104.md",
     "Locations/Arcadia.md",
     "Locations/Maps",
     "Locations/New folder",
@@ -221,7 +233,6 @@
     "README.md",
     "Locations",
     "conflict-files-obsidian-git.md",
-    "Characters/Gage Greengather/main.md",
     "Sessions/Session 20231228.md",
     "Characters",
     "glossary/Durvish City.md",

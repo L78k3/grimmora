@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 20240330.md",
+                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 20240330.md",
+                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 20240330.md"
+                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf"
               }
             }
           },
@@ -216,12 +216,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65b949c330ed1ba2",
+  "active": "4b56f62b7384261c",
   "lastOpenFiles": [
-    "Characters/Temerity.md",
-    "Characters/NPC's/Koroko.md",
     "Sessions/Session 20240330.md",
     "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
+    "Locations/Maps/Maps.canvas",
+    "Characters/Temerity.md",
+    "Characters/NPC's/Koroko.md",
     "Characters/Gage Greengather/main.md",
     "Locations/Pinechill.md",
     "Characters/Characters.md",
@@ -230,7 +231,6 @@
     "Characters/NPC's/Anaphel.md",
     "Chronicles/Entry 1.md",
     "Characters/NPC's",
-    "Locations/Maps/Maps.canvas",
     "Sessions/Session 20240323.md",
     "Sessions/Session 20240210.md",
     "Sessions/Session 20240104.md",
@@ -253,7 +253,6 @@
     "Chronicles/Entry 6.md",
     "Chronicles/Entry 5.md",
     "Chronicles/Entry 4.md",
-    "Chronicles/Entry 3.md",
     "glossary",
     "Chronicles"
   ]

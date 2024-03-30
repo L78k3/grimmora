@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
+                "file": "Sessions/Session 20240330.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
+                "file": "Sessions/Session 20240330.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf"
+                "file": "Sessions/Session 20240330.md"
               }
             }
           },
@@ -216,10 +216,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b56f62b7384261c",
+  "active": "65b949c330ed1ba2",
   "lastOpenFiles": [
-    "Sessions/Session 20240330.md",
     "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
+    "Sessions/Session 20240330.md",
     "Locations/Maps/Maps.canvas",
     "Characters/Temerity.md",
     "Characters/NPC's/Koroko.md",

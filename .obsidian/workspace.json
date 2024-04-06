@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
+                "file": "Sessions/Session 20240406.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
+                "file": "Sessions/Session 20240406.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf"
+                "file": "Sessions/Session 20240406.md"
               }
             }
           },
@@ -216,11 +216,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b56f62b7384261c",
+  "active": "34080ea7d65d210e",
   "lastOpenFiles": [
+    "Sessions/Session 20240330.md",
+    "Sessions/Session 20240323.md",
+    "Sessions/Session 20240210.md",
+    "Sessions/Session 20240104.md",
     "Sessions/Session 20240406.md",
     "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
-    "Sessions/Session 20240330.md",
     "Locations/Maps/Maps.canvas",
     "Characters/Temerity.md",
     "Characters/NPC's/Koroko.md",
@@ -232,9 +235,6 @@
     "Characters/NPC's/Anaphel.md",
     "Chronicles/Entry 1.md",
     "Characters/NPC's",
-    "Sessions/Session 20240323.md",
-    "Sessions/Session 20240210.md",
-    "Sessions/Session 20240104.md",
     "Locations/Maps/GRIMMORA_UPDATED.jpg",
     "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf",
     "Locations/Orris' Secret Lair.md",

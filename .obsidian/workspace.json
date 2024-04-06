@@ -21,6 +21,18 @@
             }
           },
           {
+            "id": "34080ea7d65d210e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 20240406.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "32abd1dbb4f302a3",
             "type": "leaf",
             "state": {
@@ -28,7 +40,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ab7592d167a6643e",
@@ -142,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 20240330.md",
+                "file": "Sessions/Session 20240406.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 20240330.md",
+                "file": "Sessions/Session 20240406.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 20240330.md"
+                "file": "Sessions/Session 20240406.md"
               }
             }
           },
@@ -216,10 +229,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65b949c330ed1ba2",
+  "active": "34080ea7d65d210e",
   "lastOpenFiles": [
-    "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
     "Sessions/Session 20240330.md",
+    "Sessions/Session 20240406.md",
+    "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
     "Locations/Maps/Maps.canvas",
     "Characters/Temerity.md",
     "Characters/NPC's/Koroko.md",

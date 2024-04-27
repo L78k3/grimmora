@@ -6,7 +6,6 @@
       {
         "id": "923591f270bb9b83",
         "type": "tabs",
-        "dimension": 40.9263959390863,
         "children": [
           {
             "id": "65b949c330ed1ba2",
@@ -14,69 +13,60 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 20240330.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "32abd1dbb4f302a3",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "ab7592d167a6643e",
-        "type": "tabs",
-        "dimension": 59.07360406091371,
-        "children": [
-          {
-            "id": "4b56f62b7384261c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "a202055e14246a6c",
+            "id": "0dff89886f6af1d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Gage Greengather/main.md",
+                "file": "Sessions/Session 20240104.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c4d994ba902118fa",
+            "id": "024a669e13907e79",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Locations/Maps/Maps.canvas",
-                "viewState": {
-                  "x": 131.4493847258705,
-                  "y": 0.8207010161716365,
-                  "zoom": 0.27630807836850496
-                }
-              },
-              "pinned": true
+                "file": "Templates/Session.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "317a36717abc20a6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
+            "id": "e2521faa5873836d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 20240104.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 20240330.md",
+                "file": "Templates/Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 20240330.md",
+                "file": "Templates/Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 20240330.md"
+                "file": "Templates/Session.md"
               }
             }
           },
@@ -197,14 +187,21 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "161e180c4a846d64",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,44 +213,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65b949c330ed1ba2",
+  "active": "317a36717abc20a6",
   "lastOpenFiles": [
-    "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
-    "Sessions/Session 20240330.md",
-    "Locations/Maps/Maps.canvas",
-    "Characters/Temerity.md",
-    "Characters/NPC's/Koroko.md",
-    "Characters/Gage Greengather/main.md",
-    "Locations/Pinechill.md",
-    "Characters/Characters.md",
-    "Characters/Theron.md",
+    "Templates/Core Framework.md",
+    "Templates/Session.md",
+    "2024-03-31.md",
+    "Sessions/Session 20240104.md",
     "Characters/Lavender.md",
-    "Characters/NPC's/Anaphel.md",
-    "Chronicles/Entry 1.md",
-    "Characters/NPC's",
+    "Templates",
+    "Characters/Characters.md",
+    "Sessions/Session 20240330.md",
     "Sessions/Session 20240323.md",
     "Sessions/Session 20240210.md",
-    "Sessions/Session 20240104.md",
+    "Locations/Maps/Maps.canvas",
     "Locations/Maps/GRIMMORA_UPDATED.jpg",
-    "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf",
+    "Locations/Pinechill.md",
     "Locations/Orris' Secret Lair.md",
-    "Locations/Arcadia.md",
     "Locations/Maps",
-    "Locations/New folder",
-    "README.md",
+    "Locations/Arcadia.md",
     "Locations",
-    "conflict-files-obsidian-git.md",
+    "Characters/Theron.md",
+    "Characters/Temerity.md",
+    "Characters/NPC's/Koroko.md",
+    "Characters/NPC's/Anaphel.md",
+    "Characters/NPC's",
+    "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
     "Sessions/Session 20231228.md",
-    "Characters",
-    "glossary/Durvish City.md",
+    "Characters/Gage Greengather/main.md",
     "Scratchpad.md",
     "Sessions",
+    "Characters/Gage Greengather/archive/character-0.1.pdf",
+    "Characters/Gage Greengather/archive",
+    "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf",
+    "Characters/Gage Greengather",
+    "README.md",
     "Chronicles/Entry 8.md",
     "Chronicles/Entry 7.md",
     "Chronicles/Entry 6.md",
     "Chronicles/Entry 5.md",
     "Chronicles/Entry 4.md",
-    "glossary",
-    "Chronicles"
+    "Chronicles/Entry 3.md"
   ]
 }

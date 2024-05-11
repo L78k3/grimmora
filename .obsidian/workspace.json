@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "064a2a2f83318d4b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "32abd1dbb4f302a3",
             "type": "leaf",
             "state": {
@@ -28,7 +38,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ab7592d167a6643e",
@@ -216,7 +227,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34080ea7d65d210e",
+  "active": "064a2a2f83318d4b",
   "lastOpenFiles": [
     "Sessions/Session 20240330.md",
     "Sessions/Session 20240323.md",

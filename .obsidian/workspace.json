@@ -68,15 +68,16 @@
               "state": {
                 "file": "Locations/Maps/Maps.canvas",
                 "viewState": {
-                  "x": 132.98518918633732,
-                  "y": 6.196016627805706,
+                  "x": 264.29647055625605,
+                  "y": 49.198541520878685,
                   "zoom": 0.27630807836850496
                 }
               },
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
+                "file": "Sessions/Session 20240527.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
+                "file": "Sessions/Session 20240527.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf"
+                "file": "Sessions/Session 20240527.md"
               }
             }
           },
@@ -216,12 +217,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b56f62b7384261c",
+  "active": "34080ea7d65d210e",
   "lastOpenFiles": [
     "Locations/Maps/Maps.canvas",
     "Sessions/Session 20240527.md",
-    "Chronicles/Entry 8.md",
     "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
+    "Chronicles/Entry 8.md",
     "Sessions/Session 20240406.md",
     "Sessions/Session 20240330.md",
     "Sessions/Session 20240323.md",

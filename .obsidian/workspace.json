@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 20240527.md",
+                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 20240527.md",
+                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 20240527.md"
+                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf"
               }
             }
           },
@@ -216,12 +216,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34080ea7d65d210e",
+  "active": "4b56f62b7384261c",
   "lastOpenFiles": [
-    "Chronicles/Entry 8.md",
-    "Sessions/Session 20240527.md",
-    "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
     "Locations/Maps/Maps.canvas",
+    "Sessions/Session 20240527.md",
+    "Chronicles/Entry 8.md",
+    "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
     "Sessions/Session 20240406.md",
     "Sessions/Session 20240330.md",
     "Sessions/Session 20240323.md",

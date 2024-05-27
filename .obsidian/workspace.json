@@ -14,19 +14,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 20240406.md",
+                "file": "Sessions/Session 20240527.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "064a2a2f83318d4b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
               }
             }
           },
@@ -38,8 +28,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ab7592d167a6643e",
@@ -153,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 20240406.md",
+                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 20240406.md",
+                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 20240406.md"
+                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf"
               }
             }
           },
@@ -227,13 +216,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "064a2a2f83318d4b",
+  "active": "4b56f62b7384261c",
   "lastOpenFiles": [
+    "Sessions/Session 20240527.md",
+    "Sessions/Session 20240406.md",
     "Sessions/Session 20240330.md",
     "Sessions/Session 20240323.md",
     "Sessions/Session 20240210.md",
     "Sessions/Session 20240104.md",
-    "Sessions/Session 20240406.md",
     "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
     "Locations/Maps/Maps.canvas",
     "Characters/Temerity.md",
@@ -263,7 +253,6 @@
     "Chronicles/Entry 8.md",
     "Chronicles/Entry 7.md",
     "Chronicles/Entry 6.md",
-    "Chronicles/Entry 5.md",
     "glossary",
     "Chronicles"
   ]

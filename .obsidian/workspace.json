@@ -68,8 +68,8 @@
               "state": {
                 "file": "Locations/Maps/Maps.canvas",
                 "viewState": {
-                  "x": 131.4493847258705,
-                  "y": 0.8207010161716365,
+                  "x": 132.98518918633732,
+                  "y": 6.196016627805706,
                   "zoom": 0.27630807836850496
                 }
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
+                "file": "Sessions/Session 20240527.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
+                "file": "Sessions/Session 20240527.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf"
+                "file": "Sessions/Session 20240527.md"
               }
             }
           },
@@ -216,16 +216,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b56f62b7384261c",
+  "active": "34080ea7d65d210e",
   "lastOpenFiles": [
+    "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
+    "Locations/Maps/Maps.canvas",
     "Sessions/Session 20240527.md",
     "Sessions/Session 20240406.md",
     "Sessions/Session 20240330.md",
     "Sessions/Session 20240323.md",
     "Sessions/Session 20240210.md",
     "Sessions/Session 20240104.md",
-    "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
-    "Locations/Maps/Maps.canvas",
     "Characters/Temerity.md",
     "Characters/NPC's/Koroko.md",
     "Characters/Gage Greengather/main.md",

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 20240527.md",
+                "file": "Sessions/Session 20240608.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,16 +68,15 @@
               "state": {
                 "file": "Locations/Maps/Maps.canvas",
                 "viewState": {
-                  "x": 264.29647055625605,
-                  "y": 245.78151246063806,
+                  "x": 165.2370828561426,
+                  "y": -83.64854430950646,
                   "zoom": 0.27630807836850496
                 }
               },
               "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 20240527.md",
+                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 20240527.md",
+                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 20240527.md"
+                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf"
               }
             }
           },
@@ -217,20 +216,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34080ea7d65d210e",
+  "active": "4b56f62b7384261c",
   "lastOpenFiles": [
+    "Characters/Gage Greengather/main.md",
+    "Sessions/Session 20240608.md",
+    "Locations/Jade Zephyr Casino.md",
     "Locations/Maps/Maps.canvas",
+    "Characters/Zadhir.md",
     "Sessions/Session 20240527.md",
-    "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
-    "Chronicles/Entry 8.md",
     "Sessions/Session 20240406.md",
     "Sessions/Session 20240330.md",
+    "Locations/Midward.md",
+    "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
+    "Chronicles/Entry 8.md",
     "Sessions/Session 20240323.md",
     "Sessions/Session 20240210.md",
     "Sessions/Session 20240104.md",
     "Characters/Temerity.md",
     "Characters/NPC's/Koroko.md",
-    "Characters/Gage Greengather/main.md",
     "Locations/Pinechill.md",
     "Characters/Characters.md",
     "Characters/Theron.md",
@@ -249,11 +252,7 @@
     "conflict-files-obsidian-git.md",
     "Sessions/Session 20231228.md",
     "Characters",
-    "glossary/Durvish City.md",
-    "Scratchpad.md",
     "Sessions",
-    "Chronicles/Entry 7.md",
-    "Chronicles/Entry 6.md",
     "glossary",
     "Chronicles"
   ]

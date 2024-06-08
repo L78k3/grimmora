@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
+                "file": "Sessions/Session 20240608.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
+                "file": "Sessions/Session 20240608.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf"
+                "file": "Sessions/Session 20240608.md"
               }
             }
           },
@@ -216,8 +216,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b56f62b7384261c",
+  "active": "34080ea7d65d210e",
   "lastOpenFiles": [
+    "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
     "Characters/Gage Greengather/main.md",
     "Sessions/Session 20240608.md",
     "Sessions/Session 20240527.md",
@@ -231,7 +232,6 @@
     "Sessions/Session 20240330.md",
     "Sessions/Session 20240406.md",
     "Locations/Maps/Maps.canvas",
-    "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
     "Locations/Jade Zephyr Casino.md",
     "Characters/Zadhir.md",
     "Locations/Midward.md",
@@ -251,7 +251,6 @@
     "Locations/New folder",
     "README.md",
     "Locations",
-    "conflict-files-obsidian-git.md",
     "Characters",
     "Sessions",
     "glossary",

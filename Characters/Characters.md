@@ -8,8 +8,8 @@
 # Temerity
 [[Temerity|Main Page]]
 
-# Theron
-[[Theron|Main Page]]
+# Theren
+[[Theren|Main Page]]
 
 # NPC's
 [[Anaphel]]

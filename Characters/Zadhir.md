@@ -1,0 +1,1 @@
+Mage/Necromancer who really fucked us up in a mausoleum near [[Pinechill]]. He regularly plays at the casino in [[Midward]].

@@ -54,6 +54,16 @@
             }
           },
           {
+            "id": "10c9e0495fd4a79d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "e2521faa5873836d",
             "type": "leaf",
             "state": {
@@ -64,9 +74,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d525c109110e7853",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -132,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Session.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Session.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Session.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -213,8 +235,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "317a36717abc20a6",
+  "active": "d525c109110e7853",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Characters/Gage Greengather/main.md",
+    "Sessions/Session 20240406.md",
     "Templates/Core Framework.md",
     "Templates/Session.md",
     "2024-03-31.md",
@@ -239,7 +264,6 @@
     "Characters/NPC's",
     "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
     "Sessions/Session 20231228.md",
-    "Characters/Gage Greengather/main.md",
     "Scratchpad.md",
     "Sessions",
     "Characters/Gage Greengather/archive/character-0.1.pdf",
@@ -250,8 +274,6 @@
     "Chronicles/Entry 8.md",
     "Chronicles/Entry 7.md",
     "Chronicles/Entry 6.md",
-    "Chronicles/Entry 5.md",
-    "Chronicles/Entry 4.md",
-    "Chronicles/Entry 3.md"
+    "Chronicles/Entry 5.md"
   ]
 }

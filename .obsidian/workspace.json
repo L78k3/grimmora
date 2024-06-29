@@ -24,19 +24,9 @@
             "id": "7323476ddffd1b01",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
-            "id": "89f23b16f513b4d5",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Sessions/Session 20240629.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +41,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "ab7592d167a6643e",
@@ -92,15 +82,14 @@
                 "file": "Locations/Maps/Maps.canvas",
                 "viewState": {
                   "x": 46.908983464587294,
-                  "y": -114.31964346255442,
+                  "y": -98.50964346255441,
                   "zoom": 1
                 }
               },
               "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Sessions/Session 20240629.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Sessions/Session 20240629.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Sessions/Session 20240629.md"
               }
             }
           },
@@ -240,17 +229,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89f23b16f513b4d5",
+  "active": "7323476ddffd1b01",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
+    "Sessions/Session 20240629.md",
+    "Chronicles/Entry 1.md",
+    "Sessions/Session 20240608.md",
     "Templates/Session.md",
+    "conflict-files-obsidian-git.md",
     "Templates/Core Framework.md",
     "Templates",
     "Characters/NPC's/Korako.md",
     "2024-03-31.md",
     "Locations/Maps/Maps.canvas",
-    "Sessions/Session 20240608.md",
-    "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
     "Characters/Gage Greengather/main.md",
     "Sessions/Session 20240527.md",
     "Sessions/Session 20240210.md",
@@ -268,9 +259,6 @@
     "Chronicles/Entry 8.md",
     "Sessions/Session 20240323.md",
     "Characters/Temerity.md",
-    "Characters/NPC's/Koroko.md",
-    "Locations/Pinechill.md",
-    "Characters/Lavender.md",
     "Characters/NPC's",
     "Locations/Maps/GRIMMORA_UPDATED.jpg",
     "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf",

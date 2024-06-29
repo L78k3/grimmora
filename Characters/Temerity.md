@@ -2,4 +2,4 @@
 
 # Familiars
 
-- [[Koroko]]
+- [[Korako]]

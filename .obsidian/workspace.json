@@ -31,6 +31,18 @@
             }
           },
           {
+            "id": "89f23b16f513b4d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "32abd1dbb4f302a3",
             "type": "leaf",
             "state": {
@@ -39,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "ab7592d167a6643e",
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 20240608.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 20240608.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 20240608.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -228,8 +240,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7323476ddffd1b01",
+  "active": "89f23b16f513b4d5",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Templates/Session.md",
+    "Templates/Core Framework.md",
+    "Templates",
+    "Characters/NPC's/Korako.md",
+    "2024-03-31.md",
     "Locations/Maps/Maps.canvas",
     "Sessions/Session 20240608.md",
     "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
@@ -253,19 +271,14 @@
     "Characters/NPC's/Koroko.md",
     "Locations/Pinechill.md",
     "Characters/Lavender.md",
-    "Chronicles/Entry 1.md",
     "Characters/NPC's",
     "Locations/Maps/GRIMMORA_UPDATED.jpg",
     "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf",
-    "Locations/Orris' Secret Lair.md",
-    "Locations/Arcadia.md",
     "Locations/Maps",
     "Locations/New folder",
-    "README.md",
     "Locations",
     "Characters",
     "Sessions",
-    "glossary",
-    "Chronicles"
+    "glossary"
   ]
 }

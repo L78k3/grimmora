@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Lavender.md",
+                "file": "Characters/NPC's/Korako.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Lavender.md",
+                "file": "Characters/NPC's/Korako.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Lavender.md",
+                "file": "Characters/NPC's/Korako.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Lavender.md"
+                "file": "Characters/NPC's/Korako.md"
               }
             }
           },
@@ -225,13 +225,17 @@
   },
   "active": "e2521faa5873836d",
   "lastOpenFiles": [
+    "Characters/Temerity.md",
+    "Chronicles/Entry 1.md",
+    "README.md",
+    "glossary/Durvish City.md",
+    "Templates/Core Framework.md",
+    "Templates/Session.md",
     "Characters/Characters.md",
     "Characters/Zadhir.md",
     "Characters/Theren.md",
-    "Characters/Temerity.md",
     "Characters/Lavender.md",
     "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
-    "README.md",
     "conflict-files-obsidian-git.md",
     "Sessions/Session 20240608.md",
     "Sessions/Session 20240527.md",
@@ -239,8 +243,6 @@
     "Locations/Jade Zephyr Casino.md",
     "Characters/Gage Greengather/main.md",
     "Sessions/Session 20240406.md",
-    "Templates/Core Framework.md",
-    "Templates/Session.md",
     "2024-03-31.md",
     "Sessions/Session 20240104.md",
     "Templates",
@@ -255,7 +257,6 @@
     "Locations/Arcadia.md",
     "Locations",
     "Characters/Theron.md",
-    "Characters/NPC's/Koroko.md",
     "Characters/NPC's",
     "Sessions",
     "Characters/Gage Greengather/archive/character-0.1.pdf",

@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "7323476ddffd1b01",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
             "id": "32abd1dbb4f302a3",
             "type": "leaf",
             "state": {
@@ -28,7 +38,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ab7592d167a6643e",
@@ -69,14 +80,15 @@
                 "file": "Locations/Maps/Maps.canvas",
                 "viewState": {
                   "x": 46.908983464587294,
-                  "y": -164.53964346255444,
+                  "y": -114.31964346255442,
                   "zoom": 1
                 }
               },
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,11 +228,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34080ea7d65d210e",
+  "active": "7323476ddffd1b01",
   "lastOpenFiles": [
+    "Locations/Maps/Maps.canvas",
+    "Sessions/Session 20240608.md",
     "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
     "Characters/Gage Greengather/main.md",
-    "Sessions/Session 20240608.md",
     "Sessions/Session 20240527.md",
     "Sessions/Session 20240210.md",
     "Sessions/Session 20240104.md",
@@ -231,7 +244,6 @@
     "Characters/NPC's/Anaphel.md",
     "Sessions/Session 20240330.md",
     "Sessions/Session 20240406.md",
-    "Locations/Maps/Maps.canvas",
     "Locations/Jade Zephyr Casino.md",
     "Characters/Zadhir.md",
     "Locations/Midward.md",

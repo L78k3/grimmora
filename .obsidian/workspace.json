@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 20240104.md",
+                "file": "Characters/Gage Greengather/Session notes/Session 20240104.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,19 +69,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC's/Korako.md",
+                "file": "Characters/Gage Greengather/Session notes/Session 20231228.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "13c55d1ae1184cbb",
+            "id": "818ff27a2a15ba9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Chronicles/Entry 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,6 +89,60 @@
           }
         ],
         "currentTab": 6
+      },
+      {
+        "id": "95c588bb8a34faf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "970ff9a7dc2ada92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chronicles/Temp/Durvish City (South).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e387d487120927b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ada7880c51cf4f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chronicles/Temp/The inn (within Durvish City).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "63ecb25c0579ab80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e0c2b465632c332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chronicles/Temp/Durvish City.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Chronicles/Temp/The inn (within Durvish City).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Chronicles/Temp/The inn (within Durvish City).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Chronicles/Temp/The inn (within Durvish City).md"
               }
             }
           }
@@ -236,19 +290,31 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "13c55d1ae1184cbb",
+  "active": "6ada7880c51cf4f9",
   "lastOpenFiles": [
-    "Characters/NPC's/Korako.md",
-    "conflict-files-obsidian-git.md",
-    "Sessions/Session 20240629.md",
-    "Characters/Temerity.md",
     "Chronicles/Entry 1.md",
+    "Chronicles/Temp/Durvish City (South).md",
+    "Chronicles/Temp/The inn (within Durvish City).md",
+    "Chronicles/Temp/Durvish City.md",
+    "Chronicles/Temp",
     "README.md",
+    "Scratchpad.md",
+    "Home.md",
+    "Characters/Gage Greengather/Session notes/Session 20240210.md",
+    "Characters/Gage Greengather/Session notes/Session 20240104.md",
+    "Characters/Gage Greengather/Session notes/Session 20231228.md",
+    "Characters/Gage Greengather/Session notes/Session 20240629.md",
+    "2024-06-29.md",
+    "2024-03-31.md",
+    "conflict-files-obsidian-git.md",
+    "Characters/Gage Greengather/Session notes",
+    "Characters/NPC's/Korako.md",
+    "Characters/Temerity.md",
     "glossary/Durvish City.md",
     "Templates/Core Framework.md",
     "Templates/Session.md",
@@ -257,29 +323,17 @@
     "Characters/Theren.md",
     "Characters/Lavender.md",
     "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
-    "Sessions/Session 20240608.md",
-    "Sessions/Session 20240527.md",
+    "Characters/Gage Greengather/Session notes/Session 20240608.md",
+    "Characters/Gage Greengather/Session notes/Session 20240527.md",
     "Locations/Midward.md",
-    "Locations/Jade Zephyr Casino.md",
-    "Characters/Gage Greengather/main.md",
-    "Sessions/Session 20240406.md",
-    "2024-03-31.md",
-    "Sessions/Session 20240104.md",
     "Templates",
-    "Sessions/Session 20240330.md",
-    "Sessions/Session 20240323.md",
-    "Sessions/Session 20240210.md",
     "Locations/Maps/Maps.canvas",
     "Locations/Maps/GRIMMORA_UPDATED.jpg",
-    "Locations/Pinechill.md",
-    "Locations/Orris' Secret Lair.md",
     "Locations/Maps",
     "Locations",
     "Characters/NPC's",
     "Sessions",
     "Characters/Gage Greengather/archive/character-0.1.pdf",
-    "Characters/Gage Greengather/archive",
-    "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf",
-    "Characters/Gage Greengather"
+    "Characters/Gage Greengather/archive"
   ]
 }

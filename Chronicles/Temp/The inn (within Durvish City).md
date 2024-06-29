@@ -1,0 +1,3 @@
+A small inn where significant events unfold involving the main characters.
+
+# Upstairs

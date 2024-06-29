@@ -81,9 +81,9 @@
               "state": {
                 "file": "Locations/Maps/Maps.canvas",
                 "viewState": {
-                  "x": 46.908983464587294,
-                  "y": -98.50964346255441,
-                  "zoom": 1
+                  "x": 296.67905477155426,
+                  "y": 189.5181679205881,
+                  "zoom": 0.10657598210653885
                 }
               },
               "pinned": true
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
+                "file": "Sessions/Session 20240629.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
+                "file": "Sessions/Session 20240629.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf"
+                "file": "Sessions/Session 20240629.md"
               }
             }
           },
@@ -229,11 +229,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b56f62b7384261c",
+  "active": "7323476ddffd1b01",
   "lastOpenFiles": [
-    "Sessions/Session 20240629.md",
     "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
     "Locations/Maps/Maps.canvas",
+    "Sessions/Session 20240629.md",
+    "Sessions/Session 20231228.md",
     "Characters/Gage Greengather/main.md",
     "Chronicles/Entry 1.md",
     "Sessions/Session 20240608.md",
@@ -246,7 +247,6 @@
     "Sessions/Session 20240527.md",
     "Sessions/Session 20240210.md",
     "Sessions/Session 20240104.md",
-    "Sessions/Session 20231228.md",
     "Scratchpad.md",
     "Characters/Characters.md",
     "Characters/Theren.md",

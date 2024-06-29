@@ -177,16 +177,6 @@
             }
           },
           {
-            "id": "310c596353376549",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Characters/NPC's/Korako.md"
-              }
-            }
-          },
-          {
             "id": "5f7138c9fc1f8d23",
             "type": "leaf",
             "state": {
@@ -207,7 +197,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
+      },
+      {
+        "id": "f6cc88554166c030",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "310c596353376549",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Characters/NPC's/Korako.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",

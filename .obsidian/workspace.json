@@ -74,9 +74,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "13c55d1ae1184cbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC's/Korako.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC's/Korako.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC's/Korako.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -229,8 +241,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2521faa5873836d",
+  "active": "13c55d1ae1184cbb",
   "lastOpenFiles": [
+    "Characters/NPC's/Korako.md",
+    "conflict-files-obsidian-git.md",
+    "Sessions/Session 20240629.md",
     "Characters/Temerity.md",
     "Chronicles/Entry 1.md",
     "README.md",
@@ -242,7 +257,6 @@
     "Characters/Theren.md",
     "Characters/Lavender.md",
     "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
-    "conflict-files-obsidian-git.md",
     "Sessions/Session 20240608.md",
     "Sessions/Session 20240527.md",
     "Locations/Midward.md",
@@ -260,9 +274,7 @@
     "Locations/Pinechill.md",
     "Locations/Orris' Secret Lair.md",
     "Locations/Maps",
-    "Locations/Arcadia.md",
     "Locations",
-    "Characters/Theron.md",
     "Characters/NPC's",
     "Sessions",
     "Characters/Gage Greengather/archive/character-0.1.pdf",

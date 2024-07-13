@@ -32,44 +32,12 @@
             }
           },
           {
-            "id": "024a669e13907e79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Session.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "317a36717abc20a6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
-          },
-          {
-            "id": "10c9e0495fd4a79d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
-          },
-          {
             "id": "e2521faa5873836d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Gage Greengather/Session notes/Session 20231228.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,63 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "388e6721334caa06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/The inn (within Durvish City).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
-      },
-      {
-        "id": "95c588bb8a34faf0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "970ff9a7dc2ada92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chronicles/Temp/Durvish City (South).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e387d487120927b8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6ada7880c51cf4f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chronicles/Temp/The inn (within Durvish City).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "63ecb25c0579ab80",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8e0c2b465632c332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chronicles/Temp/Durvish City.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chronicles/Temp/The inn (within Durvish City).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chronicles/Temp/The inn (within Durvish City).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chronicles/Temp/The inn (within Durvish City).md"
+                "file": "README.md"
               }
             }
           }
@@ -295,19 +221,20 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "6ada7880c51cf4f9",
+  "active": "e2521faa5873836d",
   "lastOpenFiles": [
+    "Characters/Gage Greengather/Session notes/Session 20231228.md",
+    "Characters/Gage Greengather/Session notes/Session 20240104.md",
+    "Templates/Session.md",
+    "Locations/The inn (within Durvish City).md",
     "Chronicles/Entry 1.md",
-    "Chronicles/Temp/Durvish City (South).md",
-    "Chronicles/Temp/The inn (within Durvish City).md",
-    "Chronicles/Temp/Durvish City.md",
-    "Chronicles/Temp",
+    "Locations/Durvish City.md",
     "README.md",
+    "Locations/Durvish City (South).md",
+    "Chronicles/Temp",
     "Scratchpad.md",
     "Home.md",
     "Characters/Gage Greengather/Session notes/Session 20240210.md",
-    "Characters/Gage Greengather/Session notes/Session 20240104.md",
-    "Characters/Gage Greengather/Session notes/Session 20231228.md",
     "Characters/Gage Greengather/Session notes/Session 20240629.md",
     "2024-06-29.md",
     "2024-03-31.md",
@@ -317,7 +244,6 @@
     "Characters/Temerity.md",
     "glossary/Durvish City.md",
     "Templates/Core Framework.md",
-    "Templates/Session.md",
     "Characters/Characters.md",
     "Characters/Zadhir.md",
     "Characters/Theren.md",

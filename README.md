@@ -1,5 +1,5 @@
 # grimmora
- Info for Beaman's specific DnD Campaign which takes place in Grimmora
+ Info for Beaman's specific D&D Campaign which takes place in Grimmora. I still don't think the campaign has a name! 🤯
 
 # Contents
 

@@ -1,5 +1,5 @@
 ---
-type: template
+type: session
 location: 
 world: 
 campaign: 

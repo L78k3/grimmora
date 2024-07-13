@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Gage Greengather/Session notes/Session 20240104.md",
+                "file": "Characters/GageGreengather/SessionNotes/Session 20240104.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Characters/GageGreengather/SessionNotes/Session 20231228.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,45 +220,44 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e2521faa5873836d",
+  "active": "65b949c330ed1ba2",
   "lastOpenFiles": [
-    "Characters/Gage Greengather/Session notes/Session 20231228.md",
-    "Characters/Gage Greengather/Session notes/Session 20240104.md",
     "Templates/Session.md",
+    "Templates/Core Framework.md",
+    "README.md",
+    "Locations/Maps/Maps.canvas",
+    "Locations/Jade Zephyr Casino.md",
+    "Characters/Lavender.md",
+    "Characters/Characters.md",
+    "Characters/GageGreengather/main.md",
+    "Characters/Gage Greengather/Session notes/Untitled",
+    "Characters/GageGreengather/SessionNotes/Session 20231228.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240104.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240210.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240323.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240330.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240406.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240527.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240608.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240629.md",
     "Locations/The inn (within Durvish City).md",
     "Chronicles/Entry 1.md",
     "Locations/Durvish City.md",
-    "README.md",
     "Locations/Durvish City (South).md",
     "Chronicles/Temp",
     "Scratchpad.md",
     "Home.md",
-    "Characters/Gage Greengather/Session notes/Session 20240210.md",
-    "Characters/Gage Greengather/Session notes/Session 20240629.md",
     "2024-06-29.md",
     "2024-03-31.md",
     "conflict-files-obsidian-git.md",
-    "Characters/Gage Greengather/Session notes",
-    "Characters/NPC's/Korako.md",
-    "Characters/Temerity.md",
-    "glossary/Durvish City.md",
-    "Templates/Core Framework.md",
-    "Characters/Characters.md",
-    "Characters/Zadhir.md",
-    "Characters/Theren.md",
-    "Characters/Lavender.md",
-    "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
-    "Characters/Gage Greengather/Session notes/Session 20240608.md",
-    "Characters/Gage Greengather/Session notes/Session 20240527.md",
-    "Locations/Midward.md",
+    "Characters/GageGreengather/SessionNotes",
+    "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
     "Templates",
-    "Locations/Maps/Maps.canvas",
     "Locations/Maps/GRIMMORA_UPDATED.jpg",
     "Locations/Maps",
     "Locations",
     "Characters/NPC's",
     "Sessions",
-    "Characters/Gage Greengather/archive/character-0.1.pdf",
-    "Characters/Gage Greengather/archive"
+    "Characters/GageGreengather/archive/character-0.1.pdf"
   ]
 }

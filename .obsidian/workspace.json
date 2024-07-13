@@ -141,35 +141,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8dbcb43eb103b497",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "README.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d97e84dd37e05afe",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "README.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "8709345d096221d8",
             "type": "leaf",
             "state": {
@@ -201,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "f6cc88554166c030",
@@ -216,8 +187,38 @@
                 "file": "README.md"
               }
             }
+          },
+          {
+            "id": "8dbcb43eb103b497",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d97e84dd37e05afe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -234,19 +235,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "17ada713aeff9309",
+  "active": "5f7138c9fc1f8d23",
   "lastOpenFiles": [
+    "Characters/Theren.md",
+    "Characters/Zadhir.md",
+    "Characters/NPC's/Runcible.md",
+    "README.md",
     "Characters/NPC's/Korako.md",
     "Characters/NPC's/Anaphel.md",
-    "Characters/Theren.md",
     "Characters/Temerity.md",
     "Chronicles/Entry 1.md",
-    "README.md",
     "Characters/Characters.md",
     "Characters/Lavender.md",
     "Templates/Character.md",
     "Characters/GageGreengather/Gage.md",
-    "Characters/Zadhir.md",
     "Templates/Session.md",
     "Templates/Core Framework.md",
     "Locations/Maps/Maps.canvas",
@@ -263,7 +265,6 @@
     "Characters/GageGreengather/SessionNotes/Session 20240629.md",
     "Locations/The inn (within Durvish City).md",
     "Locations/Durvish City.md",
-    "Locations/Durvish City (South).md",
     "Chronicles/Temp",
     "Characters/GageGreengather/SessionNotes",
     "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",

@@ -5,17 +5,29 @@
 
 ## Characters
 Pages for each character. Pretty Simple, no structure has been defined yet for these.
+**Player Characters**
 ```dataview
 LIST
 FROM "Characters"
 WHERE type = "pc"
 ```
-
+**Familiars**
+```dataview
+LIST
+FROM "Characters"
+WHERE type = "familiar"
+```
+**Non-Player Characters**
+```dataview
+LIST
+FROM "Characters"
+WHERE type = "npc"
+```
 ## Chronicles
-These are produced by Tony, they are then copy-pasted into here where I can write little pages for each other note.
+These are produced by Tony, they are then copy-pasted into here where sub-notes for are produced in a wiki-style linking format.
 
 ```dataview
-TABLE
+LIST
 FROM "Chronicles"
 SORT file.name asc
 ```

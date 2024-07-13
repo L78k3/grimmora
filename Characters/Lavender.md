@@ -1,11 +1,7 @@
-
-
 ---
-type: 
-location: [Neverwinter]
-world: "Forgotten Realms"
-campaign: "Order of the Wandering Mind"
-date: 2021-06-23
+type: pc
+world: Grimmora
+campaign:
 ---
-
-Human Barbarian-Paladin, 
+# General Description
+Human Barbarian-Paladin, patron to Auriel, goddess of Cold and Balance. Has not fully realised her divine powers yet, but has a recurring anger management problem. Frontline of the group, she also usually takes the lead of the group and generally plays the role of party mom.

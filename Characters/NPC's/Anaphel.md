@@ -1,6 +1,11 @@
+---
+type: character
+world: Grimmora
+campaign:
+---
 Pronouns: Any/All
 
-An Aasimar missionary of [[Auriel]], they are unsure of what they need to 
+An Aasimar missionary of [[Auriel]], they are unsure of what they need to do in this world.
 
 Goals:
 ???

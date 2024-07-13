@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Characters/Lavender.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17ada713aeff9309",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
@@ -67,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,19 +230,27 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "65b949c330ed1ba2",
+  "active": "17ada713aeff9309",
   "lastOpenFiles": [
-    "Templates/Session.md",
+    "Characters/NPC's/Korako.md",
+    "Characters/NPC's/Anaphel.md",
+    "Characters/Theren.md",
+    "Characters/Temerity.md",
+    "Chronicles/Entry 1.md",
     "README.md",
+    "Characters/Characters.md",
+    "Characters/Lavender.md",
+    "Templates/Character.md",
+    "Characters/GageGreengather/Gage.md",
+    "Characters/Zadhir.md",
+    "Templates/Session.md",
     "Templates/Core Framework.md",
     "Locations/Maps/Maps.canvas",
     "Locations/Jade Zephyr Casino.md",
-    "Characters/Lavender.md",
-    "Characters/Characters.md",
-    "Characters/GageGreengather/main.md",
     "Characters/Gage Greengather/Session notes/Untitled",
     "Characters/GageGreengather/SessionNotes/Session 20231228.md",
     "Characters/GageGreengather/SessionNotes/Session 20240104.md",
@@ -241,15 +262,9 @@
     "Characters/GageGreengather/SessionNotes/Session 20240608.md",
     "Characters/GageGreengather/SessionNotes/Session 20240629.md",
     "Locations/The inn (within Durvish City).md",
-    "Chronicles/Entry 1.md",
     "Locations/Durvish City.md",
     "Locations/Durvish City (South).md",
     "Chronicles/Temp",
-    "Scratchpad.md",
-    "Home.md",
-    "2024-06-29.md",
-    "2024-03-31.md",
-    "conflict-files-obsidian-git.md",
     "Characters/GageGreengather/SessionNotes",
     "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
     "Templates",

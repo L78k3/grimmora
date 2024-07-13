@@ -8,7 +8,7 @@ Pages for each character. Pretty Simple, no structure has been defined yet for t
 ```dataview
 LIST
 FROM "Characters"
-WHERE type = character
+WHERE type = "pc"
 ```
 
 ## Chronicles
@@ -21,8 +21,7 @@ SORT file.name asc
 ```
 
 ## Locations
-Small notes about each distinct location the party visits. Examples of these are [[Arcadia]], the [[Jade Zephyr Casino]] and [[Midward]].
-
+Small notes about each distinct location the party visits. 
 ```dataview
 LIST
 FROM "Locations"
@@ -30,7 +29,6 @@ FROM "Locations"
 
 ## Sessions
 Play-by-play notes, written from Luke/Gage's perspective.
-
 ```dataview
 LIST
 FROM "Characters/GageGreengather/SessionNotes"

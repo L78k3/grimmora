@@ -1,5 +1,8 @@
 ---
-type: character
+type: pc
+location: 
+world: Grimmora
+campaign:
 ---
 
 [[GageGreenGatherSheet20231024.pdf|PDF Sheet]]

@@ -6,76 +6,60 @@
       {
         "id": "923591f270bb9b83",
         "type": "tabs",
+        "dimension": 40.9263959390863,
         "children": [
           {
-            "id": "65b949c330ed1ba2",
+            "id": "32abd1dbb4f302a3",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "c560a18aff4dda87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Lavender.md",
+                "file": "Characters/GageGreengather/SessionNotes/Session 20240720.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ab7592d167a6643e",
+        "type": "tabs",
+        "dimension": 59.07360406091371,
+        "children": [
           {
-            "id": "17ada713aeff9309",
+            "id": "c4d994ba902118fa",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Locations/Maps/Maps.canvas",
+                "viewState": {
+                  "x": 296.67905477155426,
+                  "y": 189.5181679205881,
+                  "zoom": 0.10657598210653885
+                }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "0dff89886f6af1d6",
+            "id": "32c3c3c1bb307783",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20240104.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2521faa5873836d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20231228.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "818ff27a2a15ba9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chronicles/Entry 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "388e6721334caa06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/The inn (within Durvish City).md",
-                "mode": "source",
-                "source": false
+                "file": "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf"
               }
             }
           }
@@ -109,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,60 +125,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8709345d096221d8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "5f7138c9fc1f8d23",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "161e180c4a846d64",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f6cc88554166c030",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "310c596353376549",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
-            }
-          },
-          {
             "id": "8dbcb43eb103b497",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,69 +147,101 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "8709345d096221d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "310c596353376549",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf"
+              }
+            }
+          },
+          {
+            "id": "5f7138c9fc1f8d23",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": false,
-      "homepage:Open homepage": false
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "5f7138c9fc1f8d23",
+  "active": "32c3c3c1bb307783",
   "lastOpenFiles": [
-    "Characters/Theren.md",
-    "Characters/Zadhir.md",
-    "Characters/NPC's/Runcible.md",
-    "README.md",
-    "Characters/NPC's/Korako.md",
-    "Characters/NPC's/Anaphel.md",
-    "Characters/Temerity.md",
-    "Chronicles/Entry 1.md",
-    "Characters/Characters.md",
-    "Characters/Lavender.md",
-    "Templates/Character.md",
-    "Characters/GageGreengather/Gage.md",
-    "Templates/Session.md",
-    "Templates/Core Framework.md",
+    "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
+    "Characters/GageGreengather/SessionNotes/Session 20240720.md",
     "Locations/Maps/Maps.canvas",
-    "Locations/Jade Zephyr Casino.md",
-    "Characters/Gage Greengather/Session notes/Untitled",
-    "Characters/GageGreengather/SessionNotes/Session 20231228.md",
-    "Characters/GageGreengather/SessionNotes/Session 20240104.md",
-    "Characters/GageGreengather/SessionNotes/Session 20240210.md",
-    "Characters/GageGreengather/SessionNotes/Session 20240323.md",
-    "Characters/GageGreengather/SessionNotes/Session 20240330.md",
-    "Characters/GageGreengather/SessionNotes/Session 20240406.md",
-    "Characters/GageGreengather/SessionNotes/Session 20240527.md",
-    "Characters/GageGreengather/SessionNotes/Session 20240608.md",
-    "Characters/GageGreengather/SessionNotes/Session 20240629.md",
+    "Sessions/Session 20240629.md",
+    "Templates/Character.md",
     "Locations/The inn (within Durvish City).md",
     "Locations/Durvish City.md",
-    "Chronicles/Temp",
+    "Locations/Durvish City (South).md",
+    "Characters/NPC's/Runcible.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240629.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240608.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240527.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240406.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240330.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240323.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240210.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240104.md",
+    "Characters/GageGreengather/SessionNotes/Session 20231228.md",
+    "Characters/GageGreengather/archive/character-0.1.pdf",
     "Characters/GageGreengather/SessionNotes",
-    "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
+    "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",
+    "Characters/GageGreengather/Gage.md",
+    "Characters/GageGreengather/archive",
+    "Characters/GageGreengather",
+    "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
+    "Sessions/Session 20231228.md",
+    "Characters/Gage Greengather/main.md",
+    "Chronicles/Entry 1.md",
+    "Sessions/Session 20240608.md",
+    "Templates/Session.md",
+    "conflict-files-obsidian-git.md",
+    "Templates/Core Framework.md",
     "Templates",
-    "Locations/Maps/GRIMMORA_UPDATED.jpg",
-    "Locations/Maps",
-    "Locations",
+    "Characters/NPC's/Korako.md",
     "Characters/NPC's",
-    "Sessions",
-    "Characters/GageGreengather/archive/character-0.1.pdf"
+    "Locations/Maps/GRIMMORA_UPDATED.jpg",
+    "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf"
   ]
 }

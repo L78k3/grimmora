@@ -41,7 +41,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "ab7592d167a6643e",
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",
+                "file": "Characters/GageGreengather/SessionNotes/Session 20240727.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",
+                "file": "Characters/GageGreengather/SessionNotes/Session 20240727.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf"
+                "file": "Characters/GageGreengather/SessionNotes/Session 20240727.md"
               }
             }
           },
@@ -228,11 +228,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32c3c3c1bb307783",
+  "active": "c560a18aff4dda87",
   "lastOpenFiles": [
-    "Locations/Maps/Maps.canvas",
-    "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",
     "Locations/Durendal.md",
+    "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",
+    "Locations/Maps/Maps.canvas",
     "Characters/GageGreengather/SessionNotes/Session 20240727.md",
     "Characters/GageGreengather/Gage.md",
     "Characters/GageGreengather/SessionNotes/Session 20240720.md",

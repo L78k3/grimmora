@@ -4,44 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "923591f270bb9b83",
-        "type": "tabs",
+        "id": "4373db5868d93335",
+        "type": "split",
         "dimension": 40.9263959390863,
         "children": [
           {
-            "id": "32abd1dbb4f302a3",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
+            "id": "923591f270bb9b83",
+            "type": "tabs",
+            "dimension": 71.73076923076923,
+            "children": [
+              {
+                "id": "32abd1dbb4f302a3",
+                "type": "leaf",
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c560a18aff4dda87",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Characters/GageGreengather/SessionNotes/Session 20240727.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "26d43c1e03463992",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Locations/Durendal.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "c560a18aff4dda87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20240727.md",
-                "mode": "source",
-                "source": false
+            "id": "a772e10541dd818b",
+            "type": "tabs",
+            "dimension": 28.26923076923077,
+            "children": [
+              {
+                "id": "4b17e5731b74c9b5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Current HP.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "26d43c1e03463992",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Durendal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       },
       {
         "id": "ab7592d167a6643e",
@@ -71,7 +98,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf"
+                "file": "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf"
               }
             }
           },
@@ -154,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20240727.md",
+                "file": "Current HP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20240727.md",
+                "file": "Current HP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20240727.md"
+                "file": "Current HP.md"
               }
             }
           },
@@ -228,15 +255,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c560a18aff4dda87",
+  "active": "4b17e5731b74c9b5",
   "lastOpenFiles": [
-    "Locations/Durendal.md",
-    "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",
-    "Locations/Maps/Maps.canvas",
+    "Current HP.md",
     "Characters/GageGreengather/SessionNotes/Session 20240727.md",
+    "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
+    "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",
+    "Locations/Durendal.md",
+    "Locations/Maps/Maps.canvas",
     "Characters/GageGreengather/Gage.md",
     "Characters/GageGreengather/SessionNotes/Session 20240720.md",
-    "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
     "Sessions/Session 20240629.md",
     "Templates/Character.md",
     "Locations/The inn (within Durvish City).md",

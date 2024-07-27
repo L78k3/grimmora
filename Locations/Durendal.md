@@ -1,0 +1,1 @@
+Small town north of Avalon. There was a faestival located nearby, and the gang (minus Temerity) were charged with rescuing 

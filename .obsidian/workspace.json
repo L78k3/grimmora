@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20240720.md",
+                "file": "Characters/GageGreengather/SessionNotes/Session 20240727.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,9 +45,9 @@
               "state": {
                 "file": "Locations/Maps/Maps.canvas",
                 "viewState": {
-                  "x": 124.08311492592368,
-                  "y": 14.577291163490388,
-                  "zoom": 0.4569380740650616
+                  "x": 144.02053589860495,
+                  "y": -41.25037120339915,
+                  "zoom": 0.5371723698529721
                 }
               },
               "pinned": true
@@ -75,8 +75,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20240720.md",
+                "file": "Locations/Maps/Maps.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20240720.md",
+                "file": "Locations/Maps/Maps.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20240720.md"
+                "file": "Locations/Maps/Maps.canvas"
               }
             }
           },
@@ -216,12 +215,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c560a18aff4dda87",
+  "active": "c4d994ba902118fa",
   "lastOpenFiles": [
+    "Characters/GageGreengather/SessionNotes/Session 20240727.md",
     "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",
     "Locations/Maps/Maps.canvas",
-    "Characters/GageGreengather/SessionNotes/Session 20240720.md",
     "Characters/GageGreengather/Gage.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240720.md",
     "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
     "Sessions/Session 20240629.md",
     "Templates/Character.md",
@@ -251,7 +251,6 @@
     "conflict-files-obsidian-git.md",
     "Templates/Core Framework.md",
     "Templates",
-    "Characters/NPC's/Korako.md",
     "Characters/NPC's",
     "Locations/Maps/GRIMMORA_UPDATED.jpg",
     "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf"

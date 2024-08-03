@@ -27,7 +27,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Characters/GageGreengather/SessionNotes/Session 20240727.md",
+                    "file": "Characters/GageGreengather/SessionNotes/Session 20240803.md",
                     "mode": "source",
                     "source": false
                   }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current HP.md",
+                "file": "Characters/GageGreengather/SessionNotes/Session 20240803.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Current HP.md",
+                "file": "Characters/GageGreengather/SessionNotes/Session 20240803.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current HP.md"
+                "file": "Characters/GageGreengather/SessionNotes/Session 20240803.md"
               }
             }
           },
@@ -255,9 +255,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b17e5731b74c9b5",
+  "active": "c560a18aff4dda87",
   "lastOpenFiles": [
     "Current HP.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240803.md",
     "Characters/GageGreengather/SessionNotes/Session 20240727.md",
     "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
     "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",
@@ -290,7 +291,6 @@
     "Chronicles/Entry 1.md",
     "Sessions/Session 20240608.md",
     "Templates/Session.md",
-    "conflict-files-obsidian-git.md",
     "Templates",
     "Characters/NPC's",
     "Locations/Maps/GRIMMORA_UPDATED.jpg",

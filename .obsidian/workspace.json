@@ -84,8 +84,8 @@
               "state": {
                 "file": "Locations/Maps/Maps.canvas",
                 "viewState": {
-                  "x": 1870.7794871384415,
-                  "y": 364.27694262727294,
+                  "x": 1781.5278932555268,
+                  "y": 226.34266117185655,
                   "zoom": 0.33435983024886173
                 }
               },
@@ -115,7 +115,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
+                "file": "Characters/GageGreengather/Gage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
+                "file": "Characters/GageGreengather/Gage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf"
+                "file": "Characters/GageGreengather/Gage.md"
               }
             }
           },
@@ -255,17 +255,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32c3c3c1bb307783",
+  "active": "8b0afd781b0a4403",
   "lastOpenFiles": [
-    "Locations/Maps/Maps.canvas",
     "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
-    "Locations/Maps/City_of_Avalon.jpg",
+    "Characters/GageGreengather/Gage.md",
     "Characters/GageGreengather/SessionNotes/Session 20240803.md",
+    "Locations/Maps/Maps.canvas",
+    "Locations/Maps/City_of_Avalon.jpg",
     "Current HP.md",
     "Characters/GageGreengather/SessionNotes/Session 20240727.md",
     "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",
     "Locations/Durendal.md",
-    "Characters/GageGreengather/Gage.md",
     "Characters/GageGreengather/SessionNotes/Session 20240720.md",
     "Sessions/Session 20240629.md",
     "Templates/Character.md",

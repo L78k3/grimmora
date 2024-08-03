@@ -84,9 +84,9 @@
               "state": {
                 "file": "Locations/Maps/Maps.canvas",
                 "viewState": {
-                  "x": 126.06323373716153,
-                  "y": -46.347006034365876,
-                  "zoom": 0.7804000192834061
+                  "x": 1870.7794871384415,
+                  "y": 364.27694262727294,
+                  "zoom": 0.33435983024886173
                 }
               },
               "pinned": true
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20240803.md",
+                "file": "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20240803.md",
+                "file": "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20240803.md"
+                "file": "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf"
               }
             }
           },
@@ -255,15 +255,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c560a18aff4dda87",
+  "active": "32c3c3c1bb307783",
   "lastOpenFiles": [
-    "Current HP.md",
-    "Characters/GageGreengather/SessionNotes/Session 20240803.md",
-    "Characters/GageGreengather/SessionNotes/Session 20240727.md",
+    "Locations/Maps/Maps.canvas",
     "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
+    "Locations/Maps/City_of_Avalon.jpg",
+    "Characters/GageGreengather/SessionNotes/Session 20240803.md",
+    "Current HP.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240727.md",
     "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",
     "Locations/Durendal.md",
-    "Locations/Maps/Maps.canvas",
     "Characters/GageGreengather/Gage.md",
     "Characters/GageGreengather/SessionNotes/Session 20240720.md",
     "Sessions/Session 20240629.md",
@@ -290,7 +291,6 @@
     "Characters/Gage Greengather/main.md",
     "Chronicles/Entry 1.md",
     "Sessions/Session 20240608.md",
-    "Templates/Session.md",
     "Templates",
     "Characters/NPC's",
     "Locations/Maps/GRIMMORA_UPDATED.jpg",

@@ -84,8 +84,8 @@
               "state": {
                 "file": "Locations/Maps/Maps.canvas",
                 "viewState": {
-                  "x": 1828.7659142802947,
-                  "y": 10.010885111076695,
+                  "x": 1981.9029914777386,
+                  "y": 403.16088137759994,
                   "zoom": 0.9220250232800931
                 }
               },
@@ -126,8 +126,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
+                "file": "Characters/GageGreengather/SessionNotes/Session 20240831.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
+                "file": "Characters/GageGreengather/SessionNotes/Session 20240831.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf"
+                "file": "Characters/GageGreengather/SessionNotes/Session 20240831.md"
               }
             }
           },
@@ -268,12 +267,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32c3c3c1bb307783",
+  "active": "c560a18aff4dda87",
   "lastOpenFiles": [
-    "Characters/GageGreengather/Gage.md",
     "Locations/Maps/Maps.canvas",
-    "Characters/GageGreengather/SessionNotes/Session 20240831.md",
     "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
+    "Characters/GageGreengather/SessionNotes/Session 20240831.md",
+    "Characters/GageGreengather/Gage.md",
     "Current HP.md",
     "Characters/GageGreengather/SessionNotes/Session 20240803.md",
     "README.md",

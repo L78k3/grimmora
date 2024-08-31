@@ -27,7 +27,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Characters/GageGreengather/SessionNotes/Session 20240803.md",
+                    "file": "Characters/GageGreengather/SessionNotes/Session 20240831.md",
                     "mode": "source",
                     "source": false
                   }
@@ -84,9 +84,9 @@
               "state": {
                 "file": "Locations/Maps/Maps.canvas",
                 "viewState": {
-                  "x": 1781.5278932555268,
-                  "y": 226.34266117185655,
-                  "zoom": 0.33435983024886173
+                  "x": 1751.5322337807347,
+                  "y": 221.10152725448214,
+                  "zoom": 0.07499297537258186
                 }
               },
               "pinned": true
@@ -125,19 +125,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d80c2a9648264670",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,6 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,6 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +232,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf"
+              }
             }
           },
           {
@@ -274,15 +268,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d80c2a9648264670",
+  "active": "32c3c3c1bb307783",
   "lastOpenFiles": [
-    "README.md",
-    "Characters/GageGreengather/Gage.md",
-    "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
-    "Characters/GageGreengather/SessionNotes/Session 20240803.md",
     "Locations/Maps/Maps.canvas",
-    "Locations/Maps/City_of_Avalon.jpg",
+    "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
+    "Characters/GageGreengather/Gage.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240831.md",
     "Current HP.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240803.md",
+    "README.md",
+    "Locations/Maps/City_of_Avalon.jpg",
     "Characters/GageGreengather/SessionNotes/Session 20240727.md",
     "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",
     "Locations/Durendal.md",
@@ -309,8 +304,6 @@
     "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
     "Sessions/Session 20231228.md",
     "Characters/Gage Greengather/main.md",
-    "Chronicles/Entry 1.md",
-    "Sessions/Session 20240608.md",
     "Templates",
     "Characters/NPC's",
     "Locations/Maps/GRIMMORA_UPDATED.jpg",

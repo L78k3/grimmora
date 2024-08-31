@@ -84,9 +84,9 @@
               "state": {
                 "file": "Locations/Maps/Maps.canvas",
                 "viewState": {
-                  "x": 1751.5322337807347,
-                  "y": 221.10152725448214,
-                  "zoom": 0.07499297537258186
+                  "x": 1828.7659142802947,
+                  "y": 10.010885111076695,
+                  "zoom": 0.9220250232800931
                 }
               },
               "pinned": true
@@ -270,10 +270,10 @@
   },
   "active": "32c3c3c1bb307783",
   "lastOpenFiles": [
-    "Locations/Maps/Maps.canvas",
-    "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
     "Characters/GageGreengather/Gage.md",
+    "Locations/Maps/Maps.canvas",
     "Characters/GageGreengather/SessionNotes/Session 20240831.md",
+    "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
     "Current HP.md",
     "Characters/GageGreengather/SessionNotes/Session 20240803.md",
     "README.md",

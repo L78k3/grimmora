@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20240629.md",
+                "file": "Characters/GageGreengather/SessionNotes/Session 20240831.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,9 +37,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20240104.md",
+                "file": "Characters/GageGreengather/Gage.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "b3c0f1a716df81dc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Maps/Maps.canvas",
+                "viewState": {
+                  "x": 341.5019535805652,
+                  "y": 256.8807171885861,
+                  "zoom": 1
+                }
               }
             }
           },
@@ -80,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20240629.md"
+                "file": "Characters/GageGreengather/Gage.md"
               }
             }
           },
@@ -194,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20240629.md",
+                "file": "Characters/GageGreengather/Gage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20240629.md",
+                "file": "Characters/GageGreengather/Gage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,12 +250,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "099fb2c9c8398aa7",
+  "active": "0dff89886f6af1d6",
   "lastOpenFiles": [
+    "Locations/Maps/Maps.canvas",
+    "Characters/GageGreengather/Gage.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240104.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240831.md",
+    "Locations/The inn (within Durvish City).md",
+    "Characters/GageGreengather/SessionNotes/Session 20240629.md",
     "Locations/Maps/City_of_Avalon.jpg",
     "Locations/Durendal.md",
     "Current HP.md",
-    "Characters/GageGreengather/SessionNotes/Session 20240831.md",
     "Characters/GageGreengather/SessionNotes/Session 20240803.md",
     "Characters/GageGreengather/SessionNotes/Session 20240727.md",
     "Characters/GageGreengather/SessionNotes/Session 20240720.md",
@@ -255,16 +275,11 @@
     "Chronicles/Entry 1.md",
     "Characters/Characters.md",
     "Templates/Character.md",
-    "Characters/GageGreengather/Gage.md",
     "Templates/Session.md",
     "Templates/Core Framework.md",
-    "Locations/Maps/Maps.canvas",
     "Locations/Jade Zephyr Casino.md",
     "Characters/Gage Greengather/Session notes/Untitled",
     "Characters/GageGreengather/SessionNotes/Session 20231228.md",
-    "Characters/GageGreengather/SessionNotes/Session 20240104.md",
-    "Characters/GageGreengather/SessionNotes/Session 20240210.md",
-    "Characters/GageGreengather/SessionNotes/Session 20240323.md",
     "Chronicles/Temp",
     "Characters/GageGreengather/SessionNotes",
     "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",

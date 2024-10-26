@@ -84,8 +84,8 @@
               "state": {
                 "file": "Locations/Maps/Maps.canvas",
                 "viewState": {
-                  "x": 2026.077148361618,
-                  "y": 398.25264172383635,
+                  "x": 2018.7147888809639,
+                  "y": -78.82825262205813,
                   "zoom": 0.9220250232800931
                 }
               },
@@ -126,8 +126,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
+                "file": "Characters/GageGreengather/SessionNotes/Session 20241026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
+                "file": "Characters/GageGreengather/SessionNotes/Session 20241026.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf"
+                "file": "Characters/GageGreengather/SessionNotes/Session 20241026.md"
               }
             }
           },
@@ -267,12 +266,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32c3c3c1bb307783",
+  "active": "43a99dfd89c5f2ec",
   "lastOpenFiles": [
+    "Locations/Durendal.md",
     "Locations/Maps/Maps.canvas",
+    "Characters/GageGreengather/SessionNotes/Session 20241026.md",
     "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
     "Characters/GageGreengather/Gage.md",
-    "Characters/GageGreengather/SessionNotes/Session 20241026.md",
     "External Content/Quick Reference.md",
     "Characters/GageGreengather/SessionNotes/Session 20240831.md",
     "conflict-files-obsidian-git.md",
@@ -284,7 +284,6 @@
     "Locations/Maps/City_of_Avalon.jpg",
     "Characters/GageGreengather/SessionNotes/Session 20240727.md",
     "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",
-    "Locations/Durendal.md",
     "Characters/GageGreengather/SessionNotes/Session 20240720.md",
     "Sessions/Session 20240629.md",
     "Templates/Character.md",

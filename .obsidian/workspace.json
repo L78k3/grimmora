@@ -6,7 +6,7 @@
       {
         "id": "4373db5868d93335",
         "type": "split",
-        "dimension": 40.9263959390863,
+        "dimension": 37.85266457680251,
         "children": [
           {
             "id": "923591f270bb9b83",
@@ -22,42 +22,6 @@
                 }
               },
               {
-                "id": "c560a18aff4dda87",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Characters/GageGreengather/SessionNotes/Session 20240831.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "11bd404cac2a1f49",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "External Content/Quick Reference.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e406b770c2287a70",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "conflict-files-obsidian-git.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "26d43c1e03463992",
                 "type": "leaf",
                 "state": {
@@ -68,9 +32,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "43a99dfd89c5f2ec",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Characters/GageGreengather/SessionNotes/Session 20241026.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           },
           {
             "id": "a772e10541dd818b",
@@ -97,7 +73,7 @@
       {
         "id": "ab7592d167a6643e",
         "type": "tabs",
-        "dimension": 59.07360406091371,
+        "dimension": 62.14733542319749,
         "children": [
           {
             "id": "c4d994ba902118fa",
@@ -108,8 +84,8 @@
               "state": {
                 "file": "Locations/Maps/Maps.canvas",
                 "viewState": {
-                  "x": 1981.9029914777386,
-                  "y": 403.16088137759994,
+                  "x": 2026.077148361618,
+                  "y": 398.25264172383635,
                   "zoom": 0.9220250232800931
                 }
               },
@@ -139,19 +115,19 @@
             }
           },
           {
-            "id": "dd21fa038a21f76e",
+            "id": "11bd404cac2a1f49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "External Content/Quick Reference.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf"
               }
             }
           },
@@ -291,18 +267,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e406b770c2287a70",
+  "active": "32c3c3c1bb307783",
   "lastOpenFiles": [
-    "External Content/Quick Reference.md",
-    "conflict-files-obsidian-git.md",
-    "Characters/GageGreengather/SessionNotes/Session 20241026.md",
-    "External Content/Untitled.md",
-    "External Content",
-    "Characters/GageGreengather/SessionNotes/Session 20240831.md",
-    "README.md",
     "Locations/Maps/Maps.canvas",
     "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
     "Characters/GageGreengather/Gage.md",
+    "Characters/GageGreengather/SessionNotes/Session 20241026.md",
+    "External Content/Quick Reference.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240831.md",
+    "conflict-files-obsidian-git.md",
+    "External Content/Untitled.md",
+    "External Content",
+    "README.md",
     "Current HP.md",
     "Characters/GageGreengather/SessionNotes/Session 20240803.md",
     "Locations/Maps/City_of_Avalon.jpg",
@@ -323,7 +299,6 @@
     "Characters/GageGreengather/SessionNotes/Session 20240330.md",
     "Characters/GageGreengather/SessionNotes/Session 20240323.md",
     "Characters/GageGreengather/SessionNotes/Session 20240210.md",
-    "Characters/GageGreengather/SessionNotes/Session 20240104.md",
     "Characters/GageGreengather/archive/character-0.1.pdf",
     "Characters/GageGreengather/SessionNotes",
     "Characters/GageGreengather/archive",

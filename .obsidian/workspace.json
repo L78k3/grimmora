@@ -34,6 +34,30 @@
                 }
               },
               {
+                "id": "11bd404cac2a1f49",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "External Content/Quick Reference.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e406b770c2287a70",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "conflict-files-obsidian-git.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "26d43c1e03463992",
                 "type": "leaf",
                 "state": {
@@ -46,7 +70,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           },
           {
             "id": "a772e10541dd818b",
@@ -193,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20240831.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20240831.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20240831.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -250,12 +274,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,10 +291,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c560a18aff4dda87",
+  "active": "e406b770c2287a70",
   "lastOpenFiles": [
-    "README.md",
+    "External Content/Quick Reference.md",
+    "conflict-files-obsidian-git.md",
+    "Characters/GageGreengather/SessionNotes/Session 20241026.md",
+    "External Content/Untitled.md",
+    "External Content",
     "Characters/GageGreengather/SessionNotes/Session 20240831.md",
+    "README.md",
     "Locations/Maps/Maps.canvas",
     "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
     "Characters/GageGreengather/Gage.md",
@@ -296,17 +324,13 @@
     "Characters/GageGreengather/SessionNotes/Session 20240323.md",
     "Characters/GageGreengather/SessionNotes/Session 20240210.md",
     "Characters/GageGreengather/SessionNotes/Session 20240104.md",
-    "Characters/GageGreengather/SessionNotes/Session 20231228.md",
     "Characters/GageGreengather/archive/character-0.1.pdf",
     "Characters/GageGreengather/SessionNotes",
     "Characters/GageGreengather/archive",
     "Characters/GageGreengather",
     "Characters/Gage Greengather/GageGreenGatherSheet20240323.pdf",
-    "Sessions/Session 20231228.md",
-    "Characters/Gage Greengather/main.md",
     "Templates",
     "Characters/NPC's",
-    "Locations/Maps/GRIMMORA_UPDATED.jpg",
-    "Characters/Gage Greengather/GageGreenGatherSheet20231024.pdf"
+    "Locations/Maps/GRIMMORA_UPDATED.jpg"
   ]
 }

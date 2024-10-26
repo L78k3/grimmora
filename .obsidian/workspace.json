@@ -126,7 +126,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -269,13 +270,13 @@
   },
   "active": "c560a18aff4dda87",
   "lastOpenFiles": [
+    "README.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240831.md",
     "Locations/Maps/Maps.canvas",
     "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
-    "Characters/GageGreengather/SessionNotes/Session 20240831.md",
     "Characters/GageGreengather/Gage.md",
     "Current HP.md",
     "Characters/GageGreengather/SessionNotes/Session 20240803.md",
-    "README.md",
     "Locations/Maps/City_of_Avalon.jpg",
     "Characters/GageGreengather/SessionNotes/Session 20240727.md",
     "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",

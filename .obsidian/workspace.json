@@ -106,8 +106,8 @@
               "state": {
                 "file": "Locations/Maps/Maps.canvas",
                 "viewState": {
-                  "x": 1874.0673422271748,
-                  "y": 118.37293365800585,
+                  "x": 1869.619873374484,
+                  "y": 62.33482611411222,
                   "zoom": 0.0642462144330233
                 }
               },
@@ -156,7 +156,8 @@
               "title": "Quick Reference"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20241228.md",
+                "file": "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +239,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 20241228"
+              "title": "Backlinks for GageGreenGatherSheet20231024"
             }
           },
           {
@@ -247,12 +248,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20241228.md",
+                "file": "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 20241228"
+              "title": "Outgoing links from GageGreenGatherSheet20231024"
             }
           },
           {
@@ -274,10 +275,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/GageGreengather/SessionNotes/Session 20241228.md"
+                "file": "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 20241228"
+              "title": "Outline of GageGreenGatherSheet20231024"
             }
           },
           {
@@ -311,16 +312,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26d43c1e03463992",
+  "active": "e9bcd9f42b07cf85",
   "lastOpenFiles": [
+    "Locations/Maps/Maps.canvas",
+    "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",
+    "Characters/GageGreengather/SessionNotes/Session 20241228.md",
     "Characters/GageGreengather/SessionNotes/Session 20240803.md",
     "Characters/GageGreengather/SessionNotes/Session 20240831.md",
     "Characters/GageGreengather/SessionNotes/Session 20241026.md",
     "Locations/Durendal.md",
-    "Characters/GageGreengather/SessionNotes/Session 20241228.md",
-    "Locations/Maps/Maps.canvas",
     "Characters/GageGreengather/Gage.md",
-    "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",
     "External Content/Quick Reference.md",
     "Characters/NPC's/Halsin.md",
     "Current HP.md",

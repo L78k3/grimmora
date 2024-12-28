@@ -106,8 +106,8 @@
               "state": {
                 "file": "Locations/Maps/Maps.canvas",
                 "viewState": {
-                  "x": 1336.813104822222,
-                  "y": -37.28847618614296,
+                  "x": 1882.0727861620132,
+                  "y": 218.88572972880007,
                   "zoom": 0.0642462144330233
                 }
               },
@@ -131,6 +131,18 @@
             }
           },
           {
+            "id": "e9bcd9f42b07cf85",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "GageGreenGatherSheet20231024"
+            }
+          },
+          {
             "id": "11bd404cac2a1f49",
             "type": "leaf",
             "state": {
@@ -144,7 +156,8 @@
               "title": "Quick Reference"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -301,10 +314,13 @@
   },
   "active": "be76e60f6a79a72d",
   "lastOpenFiles": [
+    "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",
+    "Locations/Maps/Maps.canvas",
+    "Characters/GageGreengather/Gage.md",
+    "External Content/Quick Reference.md",
+    "Characters/GageGreengather/SessionNotes/Session 20241228.md",
     "Characters/NPC's/Halsin.md",
     "Current HP.md",
-    "Locations/Maps/Maps.canvas",
-    "Characters/GageGreengather/SessionNotes/Session 20241228.md",
     "Characters/NPC's/Zadhir.md",
     "Characters/NPC's/Runcible.md",
     "Characters/NPC's/Korako.md",
@@ -314,9 +330,7 @@
     "Locations/Avalon.md",
     "Characters/GageGreengather/SessionNotes/Session 20241026.md",
     "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
-    "Characters/GageGreengather/Gage.md",
     "Locations/Durendal.md",
-    "External Content/Quick Reference.md",
     "Characters/GageGreengather/SessionNotes/Session 20240831.md",
     "conflict-files-obsidian-git.md",
     "External Content/Untitled.md",
@@ -325,7 +339,6 @@
     "Characters/GageGreengather/SessionNotes/Session 20240803.md",
     "Locations/Maps/City_of_Avalon.jpg",
     "Characters/GageGreengather/SessionNotes/Session 20240727.md",
-    "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",
     "Characters/GageGreengather/SessionNotes/Session 20240720.md",
     "Sessions/Session 20240629.md",
     "Templates/Character.md",

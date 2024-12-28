@@ -29,12 +29,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Locations/Durendal.md",
+                    "file": "Characters/GageGreengather/SessionNotes/Session 20241228.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Durendal"
+                  "title": "Session 20241228"
                 }
               },
               {
@@ -66,7 +66,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           },
           {
             "id": "a772e10541dd818b",
@@ -106,8 +106,8 @@
               "state": {
                 "file": "Locations/Maps/Maps.canvas",
                 "viewState": {
-                  "x": 1993.2595074792623,
-                  "y": 291.82421891291483,
+                  "x": 1874.0673422271748,
+                  "y": 118.37293365800585,
                   "zoom": 0.0642462144330233
                 }
               },
@@ -156,8 +156,7 @@
               "title": "Quick Reference"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -312,12 +311,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be76e60f6a79a72d",
+  "active": "26d43c1e03463992",
   "lastOpenFiles": [
-    "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",
-    "Locations/Maps/Maps.canvas",
+    "Characters/GageGreengather/SessionNotes/Session 20240803.md",
+    "Characters/GageGreengather/SessionNotes/Session 20240831.md",
+    "Characters/GageGreengather/SessionNotes/Session 20241026.md",
+    "Locations/Durendal.md",
     "Characters/GageGreengather/SessionNotes/Session 20241228.md",
+    "Locations/Maps/Maps.canvas",
     "Characters/GageGreengather/Gage.md",
+    "Characters/GageGreengather/GageGreenGatherSheet20231024.pdf",
     "External Content/Quick Reference.md",
     "Characters/NPC's/Halsin.md",
     "Current HP.md",
@@ -328,15 +331,11 @@
     "Characters/Temerity.md",
     "Characters/Theren.md",
     "Locations/Avalon.md",
-    "Characters/GageGreengather/SessionNotes/Session 20241026.md",
     "Characters/GageGreengather/GageGreenGatherSheet20240323.pdf",
-    "Locations/Durendal.md",
-    "Characters/GageGreengather/SessionNotes/Session 20240831.md",
     "conflict-files-obsidian-git.md",
     "External Content/Untitled.md",
     "External Content",
     "README.md",
-    "Characters/GageGreengather/SessionNotes/Session 20240803.md",
     "Locations/Maps/City_of_Avalon.jpg",
     "Characters/GageGreengather/SessionNotes/Session 20240727.md",
     "Characters/GageGreengather/SessionNotes/Session 20240720.md",

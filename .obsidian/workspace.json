@@ -16,7 +16,9 @@
                 "file": "Characters/Lavender.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Lavender"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Characters/GageGreengather/SessionNotes/Session 20240831.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Session 20240831"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Characters/GageGreengather/Gage.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Gage"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -67,7 +75,9 @@
                   "y": 256.8807171885861,
                   "zoom": 1
                 }
-              }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Maps"
             }
           },
           {
@@ -79,7 +89,9 @@
                 "file": "Characters/GageGreengather/SessionNotes/Session 20231228.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Session 20231228"
             }
           },
           {
@@ -91,7 +103,9 @@
                 "file": "Chronicles/Entry 1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Entry 1"
             }
           },
           {
@@ -103,7 +117,9 @@
                 "file": "Locations/The inn (within Durvish City).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "The inn (within Durvish City)"
             }
           }
         ],
@@ -127,7 +143,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -142,7 +160,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -150,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -175,7 +197,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -187,7 +211,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -195,7 +221,9 @@
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "dice-roller-icon",
+              "title": "Dice Tray"
             }
           }
         ],
@@ -212,7 +240,9 @@
               "type": "outline",
               "state": {
                 "file": "README.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
             }
           },
           {
@@ -229,7 +259,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
             }
           },
           {
@@ -241,7 +273,9 @@
                 "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
             }
           }
         ],
@@ -258,8 +292,7 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "daily-notes:Open today's daily note": false,
-      "homepage:Open homepage": false
+      "daily-notes:Open today's daily note": false
     }
   },
   "active": "158f7e5ee9a1c8b8",

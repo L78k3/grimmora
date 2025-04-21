@@ -17,5 +17,7 @@ Beginning at 7th level, you can nimbly dodge out of the way of certain area effe
 	- +2 to Survival and Nature
 	- +1 to Constitution Saving Throws
 - Mossy stone that can call Halsin
+- Artifacts and wand from the warehouse in Bridgeport
 
 Current HP: 33
+

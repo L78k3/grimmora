@@ -18,4 +18,4 @@ Beginning at 7th level, you can nimbly dodge out of the way of certain area effe
 	- +1 to Constitution Saving Throws
 - Mossy stone that can call Halsin
 
-Current HP: 24
+Current HP: 33

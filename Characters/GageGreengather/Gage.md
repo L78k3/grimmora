@@ -20,3 +20,4 @@ Beginning at 7th level, you can nimbly dodge out of the way of certain area effe
 - Artifacts and wand from the warehouse in Bridgeport
 
 Current HP: 33
+
